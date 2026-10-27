@@ -1,0 +1,29 @@
+*******************************************************************
+IEEE VTS Motor Vehicles Challenge 2021
+Energy Management of a Dual-Motor All-Wheel Drive Electric Vehicle
+*******************************************************************
+
+Welcome to the IEEE VTS Motor Vehicles Challenge 2021 !
+
+To develop your energy management strategy (EMS):
+- Open Simulink file "VTS_challenge_2021.slx" (it is in R2015a version)
+- Develop your EMS in the Energy Management Strategy subsystem (the dark blue block)
+- Declare your own variables in the script "Strategy.m" in the folder "EMS" and must use the syntax "EMS.your_variable_name"
+- You can add your additional data, functions, or any other files to the folder "EMS".
+
+To run the model:
+- Open "Run.m"
+- Choose the driving cycle you want to test
+- Run the script
+
+A report in html format will be automatically generated and stored in the folder "Results".
+
+All the data are in the folder "Data". More detailed documents are in the folder "Documents".
+
+Please save your Simulink file in R2019b or earlier version. Send your program to vtschallenge2021@usherbrooke.ca with the "First Name Name IEEE challenge". Please send a "Read me" for your specific program. Make sure that your name and your affiliation are informed in the email.
+
+Have fun !
+
+Dr. Bao-Huy Nguyen
+University of Sherbrooke, QC, Canada
+on behalf of the Challenge 2021 Team
